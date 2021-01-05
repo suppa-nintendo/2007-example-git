@@ -5,5 +5,5 @@ function add(a, b) {
 }
 
 function log(message) {
-  console.log(message);
+  console.log("This is the message:", message);
 }
